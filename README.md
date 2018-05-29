@@ -8,7 +8,7 @@ A basic messenger that can create a group chat on the local network with a Tkint
 
 #how to run it ? 
 
-Run with "python3 server.py" on the server node .
-Run with "python3 client.py" on the client node .
-enter the client IP address on the client node .
-enter any message. 
+-Run with "python3 server.py" on the server node .
+-Run with "python3 client.py" on the client node .
+-Enter the client IP address on the client node .
+-Enter any message. 
